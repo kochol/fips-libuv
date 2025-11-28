@@ -1,0 +1,5 @@
+---
+project: fips-libuv
+exports:
+    modules:
+        libuv: .
